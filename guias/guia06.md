@@ -1,5 +1,5 @@
 ---
-theme: bulma-clean-theme
+remote_theme: pages-themes/architect@v0.2.0
 ---
 
 ## Guía 06
