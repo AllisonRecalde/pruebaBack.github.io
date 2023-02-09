@@ -1,5 +1,5 @@
 ---
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-freelancer
 ---
 
 ## Guía 10
