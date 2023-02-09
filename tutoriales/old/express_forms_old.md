@@ -1,5 +1,6 @@
 ---
-theme: jekyll-theme-hcz-jekyll-material
+##theme: jekyll-theme-hcz-jekyll-material
+
 ---
 
 [Regresar](/DAWM/)
