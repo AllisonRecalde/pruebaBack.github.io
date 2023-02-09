@@ -1,5 +1,5 @@
 ---
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-hcz-jekyll-material
 ---
 
 [Regresar](/DAWM/)
