@@ -1,5 +1,5 @@
 ---
-remote_theme: chrisrhymes/bulma-clean-theme
+remote_theme: freelancer-theme
 ---
 
 ## Guía 06
