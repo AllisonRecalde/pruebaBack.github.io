@@ -1,5 +1,5 @@
 ---
-##theme: jekyll-theme-hcz-jekyll-material
+#theme: alembic-jekyll-theme
 ---
 
 ## Guía 09
