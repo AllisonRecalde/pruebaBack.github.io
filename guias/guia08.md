@@ -1,5 +1,5 @@
 ---
-#theme: alembic-jekyll-theme
+#theme: bulma-clean-theme
 ---
 
 ## Guía 08
