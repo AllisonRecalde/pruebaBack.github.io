@@ -1,5 +1,5 @@
 ---
-theme: jekyll-theme-leapday
+theme: jekyll-theme-leap-day
 ---
 
 ## Guía 07
