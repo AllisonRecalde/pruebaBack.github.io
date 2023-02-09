@@ -1,5 +1,5 @@
 ---
-#theme: bulma-clean-theme
+theme: bulma-clean-theme
 ---
 
 ## Guía 21
