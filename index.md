@@ -11,6 +11,7 @@ Este curso provee a los estudiantes del conocimiento y de la experiencia prácti
 * [Enlaces](paginas/enlaces.md)
 * [Errores](paginas/errores.md)
 * [Apuntes](paginas/apuntes.md)
+* [Apuntes2](paginas/ddk.md)
 
 ## Recursos
 
